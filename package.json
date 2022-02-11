@@ -1,0 +1,29 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  npm i jquery jquery-ui
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "jquery-ui": "^1.13.1",
+    "react" : "",
+    "angular" : "",
+    "chart" : "",
+    "vue": "^3.2.30"
+  },
+  npm i vue -D
+  npm i vue --save-dev
+  "devDependencies": {
+  
+    "webpack" : "",
+    "js-compression" : "",
+    "sass" : ""
+  }
+}
